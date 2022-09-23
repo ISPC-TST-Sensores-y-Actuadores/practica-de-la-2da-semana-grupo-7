@@ -16,7 +16,6 @@ equilibrio en otro régimen permanente. Al intervalo entre los dos regimenes per
 ## Ejercicio 1.e:  
 
 ![alt text](./pre_vs_exa.jpg)
-image.png
 
 ## Ejercicio 1.i:
 
